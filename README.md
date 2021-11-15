@@ -1,3 +1,6 @@
+- 🔭 I code in `.py`, `.cpp`, `.dart`, and `.tex`.
+- 😄 Pronouns: He/Him
+
 ![](https://github.com/MalcolmMielle/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/MalcolmMielle/github-stats/blob/master/generated/languages.svg)
 
