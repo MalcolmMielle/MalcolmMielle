@@ -1,10 +1,13 @@
 - 🔭 I code in `.py`, `.cpp`, `.dart`, and `.tex`.
 - 😄 Pronouns: He/Him
+- 👯 I’m looking to collaborate on robotics, multi-modal sensor fusion, and machine learning.
+
+
+<!--
 
 ![](https://github.com/MalcolmMielle/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/MalcolmMielle/github-stats/blob/master/generated/languages.svg)
 
-<!--
 **MalcolmMielle/MalcolmMielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
